@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import mskunary3d from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-mskunary3d@esm/index.mjs';
+import mskunary3d from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-mskunary3d@v0.2.2-esm/index.mjs';
 ```
 
 #### mskunary3d( arrays, shape, fcn )
@@ -106,7 +106,7 @@ var bernoulli = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-bern
 import filled3dBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-filled3d-by@esm/index.mjs';
 import zeros3d from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-zeros3d@esm/index.mjs';
 import abs from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-abs@esm/index.mjs';
-import mskunary3d from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-mskunary3d@esm/index.mjs';
+import mskunary3d from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-mskunary3d@v0.2.2-esm/index.mjs';
 
 var shape = [ 3, 3, 3 ];
 
