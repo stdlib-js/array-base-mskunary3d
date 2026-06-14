@@ -1,5 +1,5 @@
-"use strict";var g=function(t,r){return function(){return r||t((r={exports:{}}).exports,r),r.exports}};var q=g(function(w,k){
-function j(t,r,b){var f,o,u,v,a,i,e,m,n,x,c,s,S,y,d;if(f=r[2],o=r[1],u=r[0],!(f<=0||o<=0||u<=0))for(S=t[0],y=t[2],d=t[1],i=0;i<u;i++)for(m=S[i],x=y[i],s=d[i],a=0;a<o;a++)for(e=m[a],n=x[a],c=s[a],v=0;v<f;v++)c[v]===0&&(n[v]=b(e[v]))}k.exports=j
-});var l=q();module.exports=l;
+"use strict";var g=function(t,r){return function(){try{return r||t((r={exports:{}}).exports,r),r.exports}catch(f){throw (r=0, f)}};};var b=g(function(w,q){
+function j(t,r,f){var o,u,e,v,a,i,m,n,x,c,s,S,y,d,k;if(o=r[2],u=r[1],e=r[0],!(o<=0||u<=0||e<=0))for(y=t[0],d=t[2],k=t[1],i=0;i<e;i++)for(n=y[i],c=d[i],S=k[i],a=0;a<u;a++)for(m=n[a],x=c[a],s=S[a],v=0;v<o;v++)s[v]===0&&(x[v]=f(m[v]))}q.exports=j
+});var l=b();module.exports=l;
 /** @license Apache-2.0 */
 //# sourceMappingURL=index.js.map
